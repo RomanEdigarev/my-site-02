@@ -44,6 +44,8 @@ const Footer = (props) => {
                         <FooterLink to={'/'}>Investors</FooterLink>
                         <FooterLink to={'/'}>Terms of Service</FooterLink>
                     </FooterLinkItems>
+                </FooterLinksWrapper>
+                <FooterLinksWrapper>
                     <FooterLinkItems>
                         <FooterLinkTittle>Social Media</FooterLinkTittle>
                         <FooterLink to={'/sign-up'}>How It works</FooterLink>
